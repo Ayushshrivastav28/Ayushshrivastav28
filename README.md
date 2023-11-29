@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ayushshrivastav28
-- 
 - 🌱 I’m currently learning Web development
-
 - 📫 Linkedin - www.linkedin.com/in/ayush-shrivastava-b481421b2 
 
 <!---
