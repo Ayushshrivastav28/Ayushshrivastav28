@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayushshrivastav28
-- 🌱 I’m currently learning Web development
+- 🌱 I’m currently working as a intern in Data Analytics.
 - 📫 Linkedin - www.linkedin.com/in/ayush-shrivastava-b481421b2 
 
 <!---
