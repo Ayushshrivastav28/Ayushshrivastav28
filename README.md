@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushshrivastav28
-- 🌱 I’m currently working as a intern in Data Analytics.
-- 📫 Linkedin - www.linkedin.com/in/ayush-shrivastava-b481421b2 
+- 🌱 I’m currently working as a Data Analyst intern at Cognifyz Technologies.
+- 📫 Linkedin - www.linkedin.com/in/ayushshrivastava28
 
 <!---
 Ayushshrivastav28/Ayushshrivastav28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
